@@ -1,0 +1,12 @@
+nav{
+    background-color: black;
+    display: flex;
+    justify-content: center;
+    gap: 20px;
+    padding: 10px 20px;
+}
+
+nav > a , nav > p{
+    color: white;
+    text-decoration: none;
+}
